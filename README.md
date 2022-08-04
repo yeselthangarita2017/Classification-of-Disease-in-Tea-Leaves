@@ -49,8 +49,8 @@ We want to thank our mentors, Guillaurme and Farrokh, our pod TA Israel, and NMA
 # References 
 
 1. Kaggle dataset: [Identifying Disease in Tea leaves | Kaggle](https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs)
-2. 2022 Neuromatch Academy-DL course project example for transfer learning: [Learning about synapses from electron-microscopy data](https://deeplearning.neuromatch.io/projects/ComputerVision/slides.html)
-3. 2022 Neuromatch Academy-DL course project Github: [Daily guide for projects](https://deeplearning.neuromatch.io/projects/docs/project_guidance.html)
+2. Neuromatch Academy-DL 2022 course project example for transfer learning: [Learning about synapses from electron-microscopy data](https://deeplearning.neuromatch.io/projects/ComputerVision/slides.html)
+3.Neuromatch Academy-DL 2022 course project Github: [Daily guide for projects](https://deeplearning.neuromatch.io/projects/docs/project_guidance.html)
 
 
 
