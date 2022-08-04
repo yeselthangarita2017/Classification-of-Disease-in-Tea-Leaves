@@ -53,4 +53,6 @@ We want to thank our mentors, Guillaurme and Farrokh, our pod TA Israel, and NMA
 3. Neuromatch Academy-DL 2022 course project Github: [Daily guide for projects](https://deeplearning.neuromatch.io/projects/docs/project_guidance.html)
 
 
+**MUST CHECK GRAMMAR AND STRUCTURE**
+
 
