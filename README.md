@@ -32,7 +32,7 @@ We performed experiments using VGG and Resnet18 neural networks with transfer le
 
 # Results 
 
-From some global metrics, we found out that the highest recall value was 0.92 for the resnet18RGB) + DA + TL when using the test dataset. 
+From some global metrics, we found out that the highest recall value was 0.92 for the resnet18(RGB) + DA + TL when using the test dataset. 
 <br>
 Also, we discovered that the Alga leaf disease class showed the highest accuracy among the 7 classes for the VGG RGB network whereas the gray light class showed the highest accuracy for the Resnet18(RGB) + DA + TL. 
 <br>
