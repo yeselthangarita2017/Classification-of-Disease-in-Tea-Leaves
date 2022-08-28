@@ -3,7 +3,7 @@ Final project for the 2022 Neuromatch Academy-Deep Learning course
 
 Computer Vision:
 <br>
-Building models to classify tea leaf diseases. Tea is one of the most popular drinks in the wordl, second only to water. Originating in China, contains medical properties and health care functions, and is quite effective in enhancing human immunity.
+Building models to classify tea leaf diseases. Tea is one of the most popular drinks in the world, second only to water. Originating in China, contains medical properties and health care functions, and is quite effective in enhancing human immunity.
 
 # Problematic
 
