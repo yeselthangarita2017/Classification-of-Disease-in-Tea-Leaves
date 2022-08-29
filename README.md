@@ -44,7 +44,7 @@ In conclusion, the best results were obtained using restnet18 RGB with data augm
 
 # Acknowledgements 
 
-We want to thank our mentors, Guillaurme and Farrokh, our pod TA Israel, and NMA organizers for this terrific experience!
+We want to thank our mentors, Guillaume Etter(Research Associate at CHU Sainte-Justine Research Centre) and Farrokh Karimi(Researcher at Institute for Research in Fundamental Sciences (IPM)), our pod TA Israel Chaparro-Cruz(Research Assistant at Universidad Nacional Jorge Basadre Grohmann), and NMA organizers for this terrific experience!
 
 # References 
 
