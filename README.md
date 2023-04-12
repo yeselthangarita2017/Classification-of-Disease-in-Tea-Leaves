@@ -51,5 +51,32 @@ We want to thank our mentors, Guillaume Etter(Research Associate at CHU Sainte-J
 2. Neuromatch Academy-DL 2022 course project example for transfer learning: [Learning about synapses from electron-microscopy data](https://deeplearning.neuromatch.io/projects/ComputerVision/slides.html)
 3. Neuromatch Academy-DL 2022 course project Github: [Daily guide for projects](https://deeplearning.neuromatch.io/projects/docs/project_guidance.html)
 
+--------------
 
+Analysis 
+We performed experiments using VGG and Resnet18 neural networks with transfer learning(TL) and data augmentation(DA) on RGB and gray scale images with a split of 70% training, 15% validation, and 15% test. We used early stopping in all the experiments.
+
+Brainstorming
+*Led a team of 7 where we exchanged ideas
+*Each member shared an idea of a dataset and model
+*We compared options
+*Selected the most voted project
+
+Computer Vision Model
+*Transfer learning
+*Data Augmentation
+*Modeling and experimentation
+*Determined the variables and hyperparameters
+*Planning/drafting the model
+*Implementing the model
+*Testing and evaluating the model
+*Publishing the model
+
+Results
+From some global metrics, we found out that the highest recall value was 0.92 for the resnet18(RGB) + DA + TL when using the test dataset.
+Also, we discovered that the Alga leaf disease class showed the highest accuracy among the 7 classes for the VGG RGB network whereas the gray light class showed the highest accuracy for the Resnet18(RGB) + DA + TL.
+Lastly, we found that 2 classes had the highest accuracy in both models.
+
+Conclusions 
+In conclusion, the best results were obtained using restnet18 RGB with data augmentation and transfer learning. The hardest challenge I had was to persuade the team of 4 engineers and scientists to get to the goal in such a short period of time.
 
