@@ -18,7 +18,7 @@ Can we discover what automtization model provides a higher classification accura
 
 ## Dataset
 
-This dataset is from Kaggle. There are a total of 886 images of tea leaves. 
+This [dataset](https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs) is from Kaggle. There are a total of 886 images of tea leaves. 
 <br>
 It contains 7 classes of common tea leaf diseases and 1 class of healthy leaves.
 
