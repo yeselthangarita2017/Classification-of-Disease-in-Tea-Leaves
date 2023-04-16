@@ -2,7 +2,7 @@
 This analysis was done as the final project for the [2022 Neuromatch Academy-Deep Learning worlwide summer course](https://deeplearning.neuromatch.io/tutorials/intro.html).
 
 ## Our Task 
-Tea is one of the most popular drinks in the world, second only to water. Originating in China contains medical properties and health care functions, and is quite effective in enhancing human immunity. 
+Tea is one of the most popular drinks in the world, second only to water. Originating in China contains medical properties and health care functions, and it is quite effective in enhancing human immunity. 
 
 We performed experiments using VGG and Resnet18 neural networks with transfer learning(TL) and data augmentation(DA) on RGB and gray scale images with a split of 70% training, 15% validation, and 15% test to classify tea leaf diseases. 
 
