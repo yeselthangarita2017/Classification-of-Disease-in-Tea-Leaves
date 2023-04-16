@@ -14,7 +14,7 @@ This [disease in tea leaves dataset](https://www.kaggle.com/datasets/shashwatwor
 
 ## Methodology
 
-* Led a team of 7 where we exchanged ideas using the [Neuromatch Academy-DL 2022 course project Github: Daily guide for projects](https://deeplearning.neuromatch.io/projects/docs/project_guidance.html) as a guide. 
+* Led a team of 7 where we exchanged ideas using the [Neuromatch Academy-DL 2022 course project Github: Daily guide for projects](https://deeplearning.neuromatch.io/projects/docs/project_guidance.html). 
 * Each member shared an idea of a dataset and model
 * We compared options
 * Selected the most voted project
