@@ -1,19 +1,12 @@
 # Classification-of-Tea-Leaves--NMA-Deep-Learning-2022
 This analysis was done as the final project for the 2022 Neuromatch Academy-Deep Learning worlwide summer course.
 
-The goal is to build models to classify tea leaf diseases. Tea is one of the most popular drinks in the world, second only to water. Originating in China contains medical properties and health care functions, and is quite effective in enhancing human immunity.
-
-## Analysis 
-
-We performed experiments using VGG and Resnet18 neural networks with transfer learning(TL) and data augmentation(DA) on RGB and gray scale images with a split of 70% training, 15% validation, and 15% test. We used early stopping in all the experiments.
-
-## Problematic
-
-Nowadays, the diagnosis of tea leaf diseases relies on the manual method, making results largely subjective and sometimes inaccurate. Machine learning and image processing methods that do not require manual intervention have been widely used in the detection and identification of plant diseases.
+## Our Task 
+We performed experiments using VGG and Resnet18 neural networks with transfer learning(TL) and data augmentation(DA) on RGB and gray scale images with a split of 70% training, 15% validation, and 15% test to classify tea leaf diseases. Tea is one of the most popular drinks in the world, second only to water. Originating in China contains medical properties and health care functions, and is quite effective in enhancing human immunity. 
 
 ## Main Question to Answer
 
-Can we discover what automtization model provides a higher classification accuracy of diseased and types of tea leaves based on color and shape of 7 classes of tea leaves? (MUST CHECK)
+Can we discover what automatization model provides a higher classification accuracy of diseased and types of tea leaves based on color and shape of 7 classes of tea leaves?
 
 
 ## Dataset
