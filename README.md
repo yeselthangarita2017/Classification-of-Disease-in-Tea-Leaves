@@ -10,9 +10,7 @@ We performed experiments using VGG and Resnet18 neural networks with transfer le
 Can we discover what model is most effective in identifying diseases in tea leaves based on color and shape of 7 classes of tea leaves?
 
 ## Dataset
-This [disease in tea leaves dataset](https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs) is from Kaggle. There are a total of 886 images of tea leaves. 
-<br>
-It contains 7 classes of common tea leaf diseases and 1 class of healthy leaves.
+This [disease in tea leaves dataset](https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs) is from Kaggle. There are a total of 886 images of tea leaves. It contains 7 classes of common tea leaf diseases and 1 class of healthy leaves.
 
 ## Methodology
 
