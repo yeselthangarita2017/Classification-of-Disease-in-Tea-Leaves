@@ -1,4 +1,4 @@
-# Classification of Disease in Tea Leaves with Python
+# Disease Classification in Tea Leaves with Python
 This analysis was done as the final project for the [2022 Neuromatch Academy-Deep Learning worlwide summer course](https://deeplearning.neuromatch.io/tutorials/intro.html).
 
 ## Our Task 
