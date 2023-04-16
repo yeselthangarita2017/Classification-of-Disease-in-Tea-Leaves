@@ -8,7 +8,7 @@ We performed experiments using VGG and Resnet18 neural networks with transfer le
 
 ## Main Question to Answer
 
-Can we discover what model provides a higher classification accuracy of diseased and healthy based on color and shape of 7 classes of tea leaves?
+Can we discover what model helps the most to identify diseases in tea leaves based on color and shape of 7 classes of tea leaves?
 
 
 ## Dataset
