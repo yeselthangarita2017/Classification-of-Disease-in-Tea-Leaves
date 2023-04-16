@@ -36,10 +36,10 @@ This [disease in tea leaves dataset](https://www.kaggle.com/datasets/shashwatwor
 From some global metrics, we found out that the highest recall value was 0.92 for the resnet18(RGB) + DA + TL when using the test dataset.
 
 ### Insight 2
-Also, we discovered that the Alga leaf disease class showed the highest accuracy among the 7 classes for the VGG RGB network whereas the gray light class showed the highest accuracy for the Resnet18(RGB) + DA + TL.
+We discovered that the Alga leaf disease class showed the highest accuracy among the 7 classes for the VGG RGB network whereas the gray light class showed the highest accuracy for the Resnet18(RGB) + DA + TL.
 
 ### Insight 3
-We found that 2 classes had the highest accuracy in both models. The best results were obtained using restnet18 RGB with data augmentation and transfer learning. 
+The best results were obtained using restnet18 RGB with data augmentation and transfer learning. 
 
 ## Acknowledgements 
 We want to thank our mentors, Guillaume Etter(Research Associate at CHU Sainte-Justine Research Centre) and Farrokh Karimi(Researcher at Institute for Research in Fundamental Sciences (IPM)), our pod TA Israel Chaparro-Cruz(Research Assistant at Universidad Nacional Jorge Basadre Grohmann), and NMA organizers for this terrific experience!
