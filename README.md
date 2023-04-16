@@ -26,7 +26,7 @@ It contains 7 classes of common tea leaf diseases and 1 class of healthy leaves.
 
 ## Computer Vision Model Methodology
 
-* Transfer learning using Neuromatch Academy-DL 2022 course project example for transfer learning: [Learning about synapses from electron-microscopy data](https://deeplearning.neuromatch.io/projects/ComputerVision/slides.html)
+* Transfer learning using Neuromatch Academy-DL 2022 course [project example for transfer learning](https://deeplearning.neuromatch.io/projects/ComputerVision/slides.html): Learning about synapses from electron-microscopy data
 * Data Augmentation
 * Modeling and experimentation
 * Determined the variables and hyperparameters
