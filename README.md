@@ -39,13 +39,7 @@ From some global metrics, we found out that the highest recall value was 0.92 fo
 Also, we discovered that the Alga leaf disease class showed the highest accuracy among the 7 classes for the VGG RGB network whereas the gray light class showed the highest accuracy for the Resnet18(RGB) + DA + TL.
 
 ### Insight 3
-Lastly, we found that 2 classes had the highest accuracy in both models.
-
-The best results were obtained using restnet18 RGB with data augmentation and transfer learning. The hardest challenge I had was to persuade the team of 4 engineers and scientists to get to the goal in such a short period of time.
-
-
-## Conclusions 
-In conclusion, the best results were obtained using restnet18 RGB with data augmentation and transfer learning. 
+We found that 2 classes had the highest accuracy in both models. The best results were obtained using restnet18 RGB with data augmentation and transfer learning. 
 
 ## Acknowledgements 
 We want to thank our mentors, Guillaume Etter(Research Associate at CHU Sainte-Justine Research Centre) and Farrokh Karimi(Researcher at Institute for Research in Fundamental Sciences (IPM)), our pod TA Israel Chaparro-Cruz(Research Assistant at Universidad Nacional Jorge Basadre Grohmann), and NMA organizers for this terrific experience!
