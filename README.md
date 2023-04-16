@@ -7,7 +7,7 @@ Tea is one of the most popular drinks in the world, second only to water. Origin
 We performed experiments using VGG and Resnet18 neural networks with transfer learning(TL) and data augmentation(DA) on RGB and gray scale images with a split of 70% training, 15% validation, and 15% test to classify tea leaf diseases. 
 
 ## Main Question to Answer
-Can we discover what model helps the most to identify diseases in tea leaves based on color and shape of 7 classes of tea leaves?
+Can we discover what model is most effective in identifying diseases in tea leaves based on color and shape of 7 classes of tea leaves?
 
 ## Dataset
 This [disease in tea leaves dataset](https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs) is from Kaggle. There are a total of 886 images of tea leaves. 
