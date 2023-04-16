@@ -1,5 +1,5 @@
 # Classification-of-Tea-Leaves--NMA-Deep-Learning-2022
-This analysis was done as the final project for the 2022 [Neuromatch Academy-Deep Learning worlwide summer course](9https://academy.neuromatch.io/courses#h.2no8o2qptswv).
+This analysis was done as the final project for the 2022 [Neuromatch Academy-Deep Learning worlwide summer course](https://deeplearning.neuromatch.io/tutorials/intro.html).
 
 ## Our Task 
 Tea is one of the most popular drinks in the world, second only to water. Originating in China contains medical properties and health care functions, and is quite effective in enhancing human immunity. 
