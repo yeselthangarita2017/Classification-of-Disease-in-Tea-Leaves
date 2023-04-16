@@ -1,4 +1,4 @@
-# Classification-of-Tea-Leaves--NMA-Deep-Learning-2022
+# Classification of Disease in Tea Leaves
 This analysis was done as the final project for the [2022 Neuromatch Academy-Deep Learning worlwide summer course](https://deeplearning.neuromatch.io/tutorials/intro.html).
 
 ## Our Task 
